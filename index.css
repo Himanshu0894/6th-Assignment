@@ -1,0 +1,32 @@
+body{
+    background-color: aquamarine;
+}
+.first{
+    text-align: center;
+}
+.container{
+    margin: auto;
+    width:50%;
+    height:50px;
+}
+img{
+    width: 500px;
+}
+a{
+    text-decoration: none;
+}
+.first{
+    font-style: italic;
+    font-size: xx-large;
+}
+.next{
+    border-radius: 12px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-left: 40%;
+}
